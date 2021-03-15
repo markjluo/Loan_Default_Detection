@@ -1,9 +1,11 @@
 # Loan_Default_Detection
 
-DESCRIPTION
+DESCRIPTION:
+
 This project focus on loan default detection on real-world business datasets.
 
-DOCUMENTS
+DOCUMENTS:
+
 code_data_pository_7641/
     cleandata/  # used for save cleaned dataset
     rawdata/    # used for save all raw datasets
